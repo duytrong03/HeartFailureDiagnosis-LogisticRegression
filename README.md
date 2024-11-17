@@ -46,7 +46,7 @@ Mục tiêu của dự án là xây dựng một mô hình phân loại hiệu q
 
 ## Quy trình dự án
 
-![Workflow Diagram](/HeartFailureDiagnosis-LogisticRegression/images/project_%20process.png)
+![Workflow Diagram](/images/project_%20process.png)
 
 ### 1. **Thu thập Dữ liệu**
 
